@@ -15,7 +15,7 @@ Use [VoxStudio on the web](https://voxstudio.me) from Cursor and other Agent Ski
 Run this from the project where you want to use the skills.
 
 ```sh
-npx skills add metaswang/voxstudio-skills -a cursor
+npx skills add voxstudio-me/voxstudio-cloud-skills -a cursor
 ```
 
 You can also copy the desired skill directories into `.cursor/skills/` in your project. Open a new Cursor chat and type `/` to find the skills.
